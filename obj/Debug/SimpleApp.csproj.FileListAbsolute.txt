@@ -1,0 +1,16 @@
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\App.g.cs
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.cache
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.lref
+C:\Users\Владислав\source\repos\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\Владислав\source\repos\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\Владислав\source\repos\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\MainWindow.baml
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp.g.resources
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.cache
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\Владислав\source\repos\SimpleApp\obj\Debug\SimpleApp.pdb
